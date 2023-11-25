@@ -24,7 +24,6 @@
 456241,14,★,0,1,Construction Fairy,3.6,12.0,9.6,2.4,0,Critical II,9,Locked
 458470,13,★,0,1,Rocket Fairy,0.0,10.0,0.0,5.2,0,Armor I,4,Locked
 462999,12,★,0,1,Landmine Fairy,5.6,10.0,19.6,0.0,0,Evasion I,4,Locked
-542317,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 561633,27,★★,100,1,Auspicious Fairy,3.2,12.0,16.0,0.0,0,Damage II,1,Locked
 561634,27,★,0,1,Auspicious Fairy,3.2,12.0,16.0,0.0,0,Auspicious Type,1,Locked
 644766,1008,★★★,200,1,Kouji,3.2,5.2,12.0,3.2,0,Armor II,1,Locked
@@ -144,9 +143,11 @@
 1172350,7,★,0,1,Sniper Fairy,0.0,17.6,5.6,3.2,0,Suppression,1,
 1172351,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0,Sturdy,1,
 1173171,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Aim,1,
+1191002,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Armor I,1,
 9289,15,★★★★★,3000,100,Command Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 175897,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 726813,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 430350,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 21893,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Damage II,10,Locked
 839468,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
+542317,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
